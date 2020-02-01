@@ -1,3 +1,5 @@
+Problem 1332:
+
 Given a string s consisting only of letters 'a' and 'b'. In a single step you can remove one palindromic subsequence from s.
 Return the minimum number of steps to make the given string empty.
 
