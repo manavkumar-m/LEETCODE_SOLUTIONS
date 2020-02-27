@@ -24,8 +24,6 @@ Input: [1,1,1,0,1]
 Output: [false,false,false,false,false]
 _____________________________________________________________
 
--->>SOLUTION<<--
-
 class Solution 
 {
 public:
